@@ -1,5 +1,5 @@
-# Corpus Interaction Use Case with Kiro
-# WatchIt Monthly Management Update
+# Corpus Interaction: Example Use Case with Kiro
+## WatchIt Monthly Management Update
 
 **Author:** Evgeniya Englert  
 **Project:** WatchIt Platform — Automated Monthly Reporting  
