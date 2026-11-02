@@ -1,9 +1,10 @@
-# WatchIt — Monthly Management Update: Corpus Interaction Use Case
+# Corpus Interaction Use Case with Kiro
+# WatchIt Monthly Management Update
 
 **Author:** Evgeniya Englert  
 **Project:** WatchIt Platform — Automated Monthly Reporting  
 **Stack:** Python · Microsoft Word (DOCX) · PowerPoint (PPTX) · Excel (XLSX) · Kiro CLI  
-**Last Updated:** November 2026
+**Last Updated:** 02.11.2026
 
 ---
 
