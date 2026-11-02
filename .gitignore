@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Generated monthly output files (timestamped — not templates)
+2026??_WatchIt_Monthly_Management_Update.docx
+2026??_WatchIt_Management_Metrics.pptx
+2027??_WatchIt_Monthly_Management_Update.docx
+2027??_WatchIt_Management_Metrics.pptx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
